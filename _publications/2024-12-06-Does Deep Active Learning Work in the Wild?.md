@@ -1,0 +1,14 @@
+---
+title: "Does Deep Active Learning Work in the Wild?"
+collection: publications
+category: preprints
+permalink: /publication/2024-12-06-does-deep-active-learning-work-in-the-wild
+excerpt: Deep active learning (DAL) methods have shown significant improvements in sample efficiency compared to simple random sampling. While these studies are valuable, they nearly always assume that optimal DAL hyperparameter (HP) settings are known in advance, or optimize the HPs through repeating DAL several times with different HP settings. Here, we argue that in real-world settings, or in the wild, there is significant uncertainty regarding good HPs, and their optimization contradicts the premise of using DAL (i.e., we require labeling efficiency). In this study, we evaluate the performance of eleven modern DAL methods on eight benchmark problems as we vary a key HP shared by all methods; the pool ratio. Despite adjusting only one HP, our results indicate that eight of the eleven DAL methods sometimes underperform relative to simple random sampling and some frequently perform worse. Only three methods always outperform random sampling (albeit narrowly), and we find that these methods all utilize diversity to select samples - a relatively simple criterion. Our findings reveal the limitations of existing DAL methods when deployed in the wild, and present this as an important new open problem in the field.
+
+date: 2024-12-06
+venue: 'arXiv'
+paperurl: 'https://doi.org/10.48550/arXiv.2302.00098'
+citation: 'Ren, Simiao, <b>Saad Lahrichi</b>, Yang Deng, Willie J. Padilla, Leslie Collins, and Jordan Malof. "Does Deep Active Learning Work in the Wild?." <i>arXiv preprint</i> arXiv:2302.00098 (2024).'
+
+---
+Deep active learning (DAL) methods have shown significant improvements in sample efficiency compared to simple random sampling. While these studies are valuable, they nearly always assume that optimal DAL hyperparameter (HP) settings are known in advance, or optimize the HPs through repeating DAL several times with different HP settings. Here, we argue that in real-world settings, or in the wild, there is significant uncertainty regarding good HPs, and their optimization contradicts the premise of using DAL (i.e., we require labeling efficiency). In this study, we evaluate the performance of eleven modern DAL methods on eight benchmark problems as we vary a key HP shared by all methods: the pool ratio. Despite adjusting only one HP, our results indicate that eight of the eleven DAL methods sometimes underperform relative to simple random sampling and some frequently perform worse. Only three methods always outperform random sampling (albeit narrowly), and we find that these methods all utilize diversity to select samples - a relatively simple criterion. Our findings reveal the limitations of existing DAL methods when deployed in the wild, and present this as an important new open problem in the field.

@@ -1,0 +1,12 @@
+---
+title: "A Data Science Pipeline for Algorithmic Trading: A Comparative Study of Applications for Finance and Cryptoeconomics"
+collection: publications
+category: conferences
+permalink: /publication/2022-08-22-a-data-science-pipeline-for-algorithmic-trading
+excerpt: Recent advances in Artificial Intelligence (AI) have made algorithmic trading play a central role in finance. However, current research and applications are disconnected information islands. We propose a generally applicable pipeline for designing, programming, and evaluating the algorithmic trading of stock and crypto assets. Moreover, we demonstrate how our data science pipeline works with respect to four conventional algorithms; the moving average crossover, volume-weighted average price, sentiment analysis, and statistical arbitrage algorithms. Our study offers a systematic way to program, evaluate, and compare different trading strategies. Furthermore, we implement our algorithms through object-oriented programming in Python3, which serves as open-source software for future academic research and applications.
+date: 2022-08-22
+venue: '2022 IEEE International Conference on Blockchain (Blockchain)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9881799&tag=1'
+citation: 'Zhang, Luyao, Tianyu Wu, <b>Saad Lahrichi</b>, Carlos-Gustavo Salas-Flores, and Jiayi Li. "A data science pipeline for algorithmic trading: A comparative study of applications for finance and cryptoeconomics." In 2022 IEEE International Conference on Blockchain (Blockchain), pp. 298-303. <i>IEEE</i>, 2022.'
+---
+Recent advances in Artificial Intelligence (AI) have made algorithmic trading play a central role in finance. However, current research and applications are disconnected information islands. We propose a generally applicable pipeline for designing, programming, and evaluating the algorithmic trading of stock and crypto assets. Moreover, we demonstrate how our data science pipeline works with respect to four conventional algorithms: the moving average crossover, volume-weighted average price, sentiment analysis, and statistical arbitrage algorithms. Our study offers a systematic way to program, evaluate, and compare different trading strategies. Furthermore, we implement our algorithms through object-oriented programming in Python3, which serves as open-source software for future academic research and applications.
